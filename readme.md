@@ -1,6 +1,6 @@
 Reqs: Linux or similar shell required
 
-so you downloaded all VMworld 2019 videos with Dominiks single line command and William Lams @lamw link list at https://github.com/lamw/vmworld2019-session-urls
+so you downloaded all VMworld 2019 videos with Dominiks single line command and William Lams [@lamw](https://github.com/lamw) link list at https://github.com/lamw/vmworld2019-session-urls
 
 ````
 # load Session Catalog (login required)
